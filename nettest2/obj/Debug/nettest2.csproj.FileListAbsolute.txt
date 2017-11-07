@@ -1,0 +1,6 @@
+c:\users\chaitanya duddella\documents\visual studio 2017\Projects\nettest2\nettest2\obj\Debug\nettest2.csprojResolveAssemblyReference.cache
+C:\Users\Chaitanya Duddella\Documents\Visual Studio 2017\Projects\nettest2\nettest2\bin\Debug\nettest2.exe.config
+C:\Users\Chaitanya Duddella\Documents\Visual Studio 2017\Projects\nettest2\nettest2\bin\Debug\nettest2.exe
+C:\Users\Chaitanya Duddella\Documents\Visual Studio 2017\Projects\nettest2\nettest2\bin\Debug\nettest2.pdb
+C:\Users\Chaitanya Duddella\Documents\Visual Studio 2017\Projects\nettest2\nettest2\obj\Debug\nettest2.exe
+C:\Users\Chaitanya Duddella\Documents\Visual Studio 2017\Projects\nettest2\nettest2\obj\Debug\nettest2.pdb
